@@ -2,11 +2,10 @@
 layout: default
 ---
 
-# Your Name
+# RahafALmanaseer
 
 ## About
-
-I am a recent graduate in [Computer Science / Electrical Engineering] from [University Name] in Jordan. I am building expertise in applied AI and ML systems through the AI.SPIRE program. I am most interested in [your areas of interest — e.g., NLP, computer vision, data engineering, deployment].
+I am a Communications Engineer and recent graduate from Al-Balqa Applied University / Faculty of Engineering Technology in Jordan. I am building expertise in applied AI and ML systems through the AI.SPIRE program. I am most interested in [your areas of interest — e.g., NLP, computer vision, data engineering, deployment].
 
 ---
 
@@ -113,6 +112,6 @@ I am a recent graduate in [Computer Science / Electrical Engineering] from [Univ
 
 ## Contact
 
-- **GitHub:** [your-github-username](https://github.com/your-github-username)
-- **LinkedIn:** [your-linkedin-profile](https://linkedin.com/in/your-profile)
-- **Email:** your.email@example.com
+- **GitHub:** [RahafALmanaseer](https://github.com/RahafALmanaseer)
+- **LinkedIn:** [Rahaf Almanaseer](https://www.linkedin.com/in/rahaf-almanaseer/)
+- **Email:** r0665672@gmail.com
