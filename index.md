@@ -16,34 +16,34 @@ I am a Communications Engineer and recent graduate from Al-Balqa Applied Univers
 **Git, Environment Setup & Collaboration**
 
 - **Environment & Git Workflows** — Set up a reproducible Python development environment and practiced branching, merging, and pull request workflows.
-  - Repo: [your-repo-link](#)
+  - - Repo: [M1 Environment Setup](https://github.com/LevelUp-Applied-AI/m1-l1-git-workflows-RahafALmanaseer)
   - Skills: Git, GitHub, VS Code, virtual environments, branch management
 
 - **Team Collaboration Pipeline** — Collaborated on a shared repository using feature branches and code review, resolving merge conflicts and maintaining a clean commit history.
-  - Repo: [your-repo-link](#)
+  - Repo: [M1 Collaboration Lab](https://github.com/LevelUp-Applied-AI/m1-l1-git-workflows-RahafALmanaseer)
   - Skills: Git collaboration, pull requests, code review, merge conflict resolution
 
 **Data Pipelines & PyTorch Fundamentals**
 
 - **Data Pipeline** — Built an end-to-end data loading and preprocessing pipeline using pandas, with validation checks and reproducible outputs.
-  - Repo: [your-repo-link](#)
+  - Repo: [Data Pipeline Lab](https://github.com/LevelUp-Applied-AI/m2-l2-data-pipeline-RahafALmanaseer)
   - Skills: Python, pandas, data cleaning, pipeline design
 
 - **PyTorch Model** — Implemented a neural network training loop in PyTorch, including data loading, forward/backward passes, and evaluation metrics.
-  - Repo: [your-repo-link](#)
+  - Repo: [PyTorch Integration](https://github.com/LevelUp-Applied-AI/m2-i2-pytorch-RahafALmanaseer)
   - Skills: PyTorch, tensor operations, training loops, model evaluation
 
 **Relational Databases & SQL**
 
-- **Project Name** — One sentence describing what you built.
-  - Repo: [link](#)
+- **ETL Pipeline & SQL Analytics** — Developed a pipeline to extract data and perform complex analytical queries using SQL and PostgreSQL.
+  - Repo: [SQL & ETL Project](https://github.com/LevelUp-Applied-AI/m3-i3-etl-pipeline-RahafALmanaseer)
   - Skills: SQL, PostgreSQL, data modeling
 
 **Data Visualization & Communication**
 
-- **Project Name** — One sentence describing what you built.
-  - Repo: [link](#)
-  - Skills: Matplotlib, data storytelling
+- **KPI Dashboard** — Created interactive data visualizations to communicate key performance indicators and business insights.
+  - Repo: [Visualization Project](https://github.com/LevelUp-Applied-AI/m4-i4-kpi-dashboard-RahafALmanaseer)
+  - Skills: Matplotlib, Seaborn, Data Storytelling, Python
 
 ---
 
